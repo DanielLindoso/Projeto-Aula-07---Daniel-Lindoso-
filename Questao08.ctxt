@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Sep 27 16:05:45 BRT 2026
+comment0.target=Questao08
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=matriz
+comment2.target=double calculaMedia(int[][])
+comment3.params=matriz
+comment3.target=void contaMultiplos(int[][])
+numComments=4
